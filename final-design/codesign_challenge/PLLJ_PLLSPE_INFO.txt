@@ -1,0 +1,5 @@
+PLL_Name	challengeqsys:u0|challengeqsys_altpll_0:altpll_0|challengeqsys_altpll_0_altpll_n342:sd1|pll7
+PLLJITTER	30
+PLLSPEmax	84
+PLLSPEmin	-53
+

@@ -1,0 +1,13 @@
+	component challengeqsys is
+		port (
+			altpll_0_areset_conduit_export    : in  std_logic                     := 'X'; -- export
+			altpll_0_locked_conduit_export    : out std_logic;                            -- export
+			altpll_0_phasedone_conduit_export : out std_logic;                            -- export
+			clk_clk                           : in  std_logic                     := 'X'; -- clk
+			pio_0_external_connection_export  : out std_logic_vector(31 downto 0);        -- export
+			pio_1_external_connection_export  : out std_logic_vector(31 downto 0);        -- export
+			pio_2_external_connection_export  : out std_logic_vector(31 downto 0);        -- export
+			reset_reset_n                     : in  std_logic                     := 'X'  -- reset_n
+		);
+	end component challengeqsys;
+

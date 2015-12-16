@@ -1,0 +1,140 @@
+Restore Archived Project report for challenge
+Thu Nov 12 22:05:07 2015
+Quartus II 64-Bit Version 15.0.0 Build 145 04/22/2015 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2015 Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus II License Agreement,
+the Altera MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Altera and sold by Altera or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Nov 12 22:05:07 2015 ;
+; Revision Name                   ; challenge                             ;
+; Top-level Entity Name           ; challenge                             ;
+; Family                          ; Cyclone IV E                          ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored '/home/pp/apps/class2016/hw_sf_codesign/codesign_challenge/challenge.qar'
+Info: Generated report 'challenge.restore.rpt'
+Info (23030): Evaluation of Tcl script /home/pp/altera/15.0/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 783 megabytes
+    Info: Processing ended: Thu Nov 12 22:05:07 2015
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:00
+
+
++---------------------------------------------------------------------------------------------------------+
+; Files Restored                                                                                          ;
++---------------------------------------------------------------------------------------------------------+
+; File Name                                                                                               ;
++---------------------------------------------------------------------------------------------------------+
+; qar_info.json                                                                                           ;
+; challenge.SDC                                                                                           ;
+; challenge.qpf                                                                                           ;
+; challenge.qsf                                                                                           ;
+; challenge.v                                                                                             ;
+; challenge_assignment_defaults.qdf                                                                       ;
+; challengeqsys.qsys                                                                                      ;
+; challengeqsys/challengeqsys.bsf                                                                         ;
+; challengeqsys/challengeqsys.cmp                                                                         ;
+; challengeqsys/challengeqsys.html                                                                        ;
+; challengeqsys/challengeqsys.xml                                                                         ;
+; challengeqsys/challengeqsys_bb.v                                                                        ;
+; challengeqsys/challengeqsys_generation.rpt                                                              ;
+; challengeqsys/challengeqsys_generation_previous.rpt                                                     ;
+; challengeqsys/challengeqsys_inst.v                                                                      ;
+; challengeqsys/challengeqsys_inst.vhd                                                                    ;
+; challengeqsys/synthesis/challengeqsys.debuginfo                                                         ;
+; challengeqsys/synthesis/challengeqsys.qip                                                               ;
+; challengeqsys/synthesis/challengeqsys.regmap                                                            ;
+; challengeqsys/synthesis/challengeqsys.v                                                                 ;
+; challengeqsys/synthesis/submodules/altera_avalon_sc_fifo.v                                              ;
+; challengeqsys/synthesis/submodules/altera_merlin_arbitrator.sv                                          ;
+; challengeqsys/synthesis/submodules/altera_merlin_burst_uncompressor.sv                                  ;
+; challengeqsys/synthesis/submodules/altera_merlin_master_agent.sv                                        ;
+; challengeqsys/synthesis/submodules/altera_merlin_master_translator.sv                                   ;
+; challengeqsys/synthesis/submodules/altera_merlin_slave_agent.sv                                         ;
+; challengeqsys/synthesis/submodules/altera_merlin_slave_translator.sv                                    ;
+; challengeqsys/synthesis/submodules/altera_reset_controller.sdc                                          ;
+; challengeqsys/synthesis/submodules/altera_reset_controller.v                                            ;
+; challengeqsys/synthesis/submodules/altera_reset_synchronizer.v                                          ;
+; challengeqsys/synthesis/submodules/challengeqsys_irq_mapper.sv                                          ;
+; challengeqsys/synthesis/submodules/challengeqsys_jtag_uart_0.v                                          ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0.v                                    ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_avalon_st_adapter.v                  ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_cmd_demux.sv                         ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_cmd_demux_001.sv                     ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_cmd_mux.sv                           ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_cmd_mux_001.sv                       ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_cmd_mux_002.sv                       ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_router.sv                            ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_router_001.sv                        ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_router_002.sv                        ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_router_003.sv                        ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_router_004.sv                        ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_rsp_demux.sv                         ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_rsp_demux_002.sv                     ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_rsp_mux.sv                           ;
+; challengeqsys/synthesis/submodules/challengeqsys_mm_interconnect_0_rsp_mux_001.sv                       ;
+; challengeqsys/synthesis/submodules/challengeqsys_nios2_gen2_0.v                                         ;
+; challengeqsys/synthesis/submodules/challengeqsys_nios2_gen2_0_cpu.sdc                                   ;
+; challengeqsys/synthesis/submodules/challengeqsys_nios2_gen2_0_cpu.v                                     ;
+; challengeqsys/synthesis/submodules/challengeqsys_nios2_gen2_0_cpu_debug_slave_sysclk.v                  ;
+; challengeqsys/synthesis/submodules/challengeqsys_nios2_gen2_0_cpu_debug_slave_tck.v                     ;
+; challengeqsys/synthesis/submodules/challengeqsys_nios2_gen2_0_cpu_debug_slave_wrapper.v                 ;
+; challengeqsys/synthesis/submodules/challengeqsys_nios2_gen2_0_cpu_ociram_default_contents.mif           ;
+; challengeqsys/synthesis/submodules/challengeqsys_nios2_gen2_0_cpu_rf_ram_a.mif                          ;
+; challengeqsys/synthesis/submodules/challengeqsys_nios2_gen2_0_cpu_rf_ram_b.mif                          ;
+; challengeqsys/synthesis/submodules/challengeqsys_nios2_gen2_0_cpu_test_bench.v                          ;
+; challengeqsys/synthesis/submodules/challengeqsys_onchip_memory2_0.hex                                   ;
+; challengeqsys/synthesis/submodules/challengeqsys_onchip_memory2_0.v                                     ;
+; challengeqsys/synthesis/submodules/challengeqsys_pio_0.v                                                ;
+; challengeqsys/synthesis/submodules/challengeqsys_pixelmemory.hex                                        ;
+; challengeqsys/synthesis/submodules/challengeqsys_pixelmemory.v                                          ;
+; challengeqsys/synthesis/submodules/challengeqsys_timer_0.v                                              ;
+; software/main.c                                                                                         ;
++---------------------------------------------------------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+

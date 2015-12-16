@@ -1,0 +1,10 @@
+Info (10281): Verilog HDL Declaration information at challengeqsys_mm_interconnect_1_router.sv(48): object "DEFAULT_WR_CHANNEL" differs only in case from object "default_wr_channel" in the same scope
+Info (10281): Verilog HDL Declaration information at challengeqsys_mm_interconnect_1_router.sv(49): object "DEFAULT_RD_CHANNEL" differs only in case from object "default_rd_channel" in the same scope
+Info (10281): Verilog HDL Declaration information at challengeqsys_mm_interconnect_1_router_001.sv(48): object "DEFAULT_WR_CHANNEL" differs only in case from object "default_wr_channel" in the same scope
+Info (10281): Verilog HDL Declaration information at challengeqsys_mm_interconnect_1_router_001.sv(49): object "DEFAULT_RD_CHANNEL" differs only in case from object "default_rd_channel" in the same scope
+Info (10281): Verilog HDL Declaration information at challengeqsys_mm_interconnect_1_router_002.sv(48): object "DEFAULT_WR_CHANNEL" differs only in case from object "default_wr_channel" in the same scope
+Info (10281): Verilog HDL Declaration information at challengeqsys_mm_interconnect_1_router_002.sv(49): object "DEFAULT_RD_CHANNEL" differs only in case from object "default_rd_channel" in the same scope
+Info (10281): Verilog HDL Declaration information at challengeqsys_mm_interconnect_1_router_004.sv(48): object "DEFAULT_WR_CHANNEL" differs only in case from object "default_wr_channel" in the same scope
+Info (10281): Verilog HDL Declaration information at challengeqsys_mm_interconnect_1_router_004.sv(49): object "DEFAULT_RD_CHANNEL" differs only in case from object "default_rd_channel" in the same scope
+Warning (10273): Verilog HDL warning at plot_circle.v(228): extended using "x" or "z"
+Info (10281): Verilog HDL Declaration information at plot_circle.v(36): object "READY" differs only in case from object "ready" in the same scope
